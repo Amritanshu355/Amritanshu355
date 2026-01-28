@@ -77,7 +77,7 @@
 
 ## ✨ Quote I Believe In  
 
-> *"Turning data into insights, and insights into impact."*  
+ Turning data into insights, and insights into impact.  
 
 ⭐ Feel free to explore my repositories and collaborate!
 
