@@ -66,12 +66,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshuanand&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amritanshu355&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amritanshu355&theme=tokyonight&cache_seconds=1800" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritanshu355&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
