@@ -70,7 +70,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amritanshuanand&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Amritanshu355&theme=tokyonight&cache_seconds=1800" />
+
 </p>
 
 ---
