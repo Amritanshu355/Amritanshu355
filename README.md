@@ -70,9 +70,5 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amritanshu355&theme=tokyo-night)
 
-## ✨ Quote I Believe In  
 
- Turning data into insights, and insights into impact.  
-
-⭐ Feel free to explore my repositories and collaborate!
 
