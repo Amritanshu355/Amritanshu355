@@ -53,15 +53,18 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
----
- 
+--- 
+
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritanshu355&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amritanshu355&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Amritanshu355&theme=tokyonight" height="150"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amritanshu355&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshu355&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshu355&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ## 📈 Contribution Graph  
 
