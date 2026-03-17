@@ -57,11 +57,15 @@
  
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritanshu355&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amritanshu355&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshu355&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amritanshu355&theme=tokyo-night)
 
 ## ✨ Quote I Believe In  
 
