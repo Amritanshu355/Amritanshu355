@@ -54,18 +54,14 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ---
-
+ 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amritanshu355&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritanshu355&theme=tokyo-night&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ## ✨ Quote I Believe In  
 
